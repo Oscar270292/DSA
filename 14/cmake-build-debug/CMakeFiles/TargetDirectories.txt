@@ -1,0 +1,3 @@
+C:/Users/GL66/CLionProjects/14/cmake-build-debug/CMakeFiles/14.dir
+C:/Users/GL66/CLionProjects/14/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GL66/CLionProjects/14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
